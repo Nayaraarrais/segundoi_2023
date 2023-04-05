@@ -1,1 +1,23 @@
-
+:root {
+    --fundo: white;
+    --texto: black;
+    --corbarra: yellow;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.barra {
+    height: 20%;
+    width: 100%;
+    background-color: var(--corbarra);
+}
+.conteudo {
+    height: 65%;
+    width: 100%;
+}
+.rodape {
+    height: 15%;
+    width: 100%;
+    background-color: blue;
+}
