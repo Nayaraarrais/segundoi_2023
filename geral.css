@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ 
+ body{
+   background: #ffff87;
+   color: black;
+
+ }
+
+ ul{
+   display: flex;
+   justify-content: space-between
+
+ }
+
+ a{
+   color: black;
+ }
+
+ header img {
+   width: 240px;
+   height: 240px;
+   border-radius: 70%;
+   border: 5px solid darkgoldenrod;
+
+ }
+
+ 
+
+ .center{
+   text-align: center;
+ }
+  
+ h2{
+    color: darkgoldenrod;
+  
+ }
+ h3{
+    font-family:Arial, Helvetica, sans-serif
+    background-color: black;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+    margin-top: 1cm;
+    
+ }
+ 
+ .logo{
+   right: 0px;
+   top: -11px;
+   position: absolute;
+ 
+ }
+ 
+ .therock{
+ position: absolute;
+ margin-left: 35%;
+ 
+ }
+ 
+ 
+ .menuPrincipal {
+   position: absolute;
+   width: 100%;
+   height: 40px;
+   background: darkgoldenrod;
+   top: 0;
+   left: 0;
+}
+ nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: 0;
+ 
+ }
+ li {
+    float: left;
+ 
+ }
+ li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: large;
+ 
+ 
+ }
+ li a:hover {
+   background: #C3CBE0;
+    color: rgb(255, 0, 0);
+ }
+ 
+ nav a:hover{
+   color: #fff700
+
+ }
+  
+ p{
+   font-size: 20px;
+ }
+
+ h3{
+   font-size: 25px;
+ }
+  h1{
+   font-size: 35px;
+  }
+
+  h2{
+   font-size: 30px;
+  }
