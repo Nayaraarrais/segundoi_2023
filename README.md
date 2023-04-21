@@ -4,5 +4,5 @@ Nayara Arrais da Silva n:28
 
 2I
 
-Onibus escolar
+ÔNIBUS RESERVADOS PARA ESTUDANTES
 
